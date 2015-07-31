@@ -4,7 +4,7 @@ In this project, we will practice the basic RCAV flow, as well as receiving inpu
 
 ## Setup
 
- - **Fork** this repository. *Then* clone your copy.
+ - Clone this repository.
  - Open the whole folder you just downloaded in Sublime.
  - `cd` into the folder.
  - `bundle install`

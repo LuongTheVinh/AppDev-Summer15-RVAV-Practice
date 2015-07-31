@@ -1,0 +1,3 @@
+<h1>Random Number</h1>
+
+<p> A random number between <%= params['random_from'] %> and <%= params['random_to'] %> is <%= Random.new.rand(params['random_from'].to_i..params['random_to'].to_i) %>.<p>
